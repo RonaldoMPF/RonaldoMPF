@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**RonaldoMPF/RonaldoMPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for learning and building innovative solutions. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and exploring new technologies.
+- 💼 I'm open to collaborating on interesting projects and ideas.
+- 🔭 I’m always looking to improve my skills and take on new challenges.
+
+## 🛠️ Languages and Tools
+
+- **Languages:** Go, Python, Java, JavaScript, TypeScript
+- **DevOps:** Docker, Kubernetes
+- **Other Tools:** Git, VS Code
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate or just chat about tech!
+
+Happy coding! 😊
