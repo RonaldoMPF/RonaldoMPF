@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a love for learning and building innovative solutions. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a love for learning and building innovative solutions.
 
 ## 🚀 About Me
 
@@ -10,8 +10,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Go, Python, Java, JavaScript, TypeScript
-- **DevOps:** Docker, Kubernetes
+- **Languages:** Go, Java, Python, JavaScript, TypeScript, R, SQL, C
+- **Frameworks:** Spring, Node.js, React, Ionic,
+- **ML/Data Science:** scikit-learn, Keras, Tensorflow Lite, TinyML
+- **DevOps:** Docker, Kubernetes, Terraform, Prometheus, Grafana, InfluxDB, PostgreSQL, MySQL
 - **Other Tools:** Git, VS Code
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate or just chat about tech!
